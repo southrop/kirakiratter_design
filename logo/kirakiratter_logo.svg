@@ -16,7 +16,7 @@
    id="svg8"
    inkscape:version="0.92.1 r15371"
    sodipodi:docname="kirakiratter_logo.svg"
-   inkscape:export-filename="D:\Projects\kirakiratter-old.png"
+   inkscape:export-filename="C:\Users\south\Documents\Projects\kirakiratter_design\logo\kirakiratter-logo-v5.png"
    inkscape:export-xdpi="113.73"
    inkscape:export-ydpi="113.73">
   <defs
@@ -28,21 +28,21 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.8"
-     inkscape:cx="102.24067"
-     inkscape:cy="116.17938"
+     inkscape:zoom="3.959798"
+     inkscape:cx="107.94902"
+     inkscape:cy="134.38796"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer7"
      showgrid="false"
      inkscape:pagecheckerboard="false"
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:window-width="1920"
-     inkscape:window-height="1017"
-     inkscape:window-x="1912"
-     inkscape:window-y="-8"
+     inkscape:window-width="2160"
+     inkscape:window-height="1361"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
      inkscape:window-maximized="1"
      showguides="false" />
   <metadata
@@ -53,7 +53,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -134,7 +134,8 @@
   <g
      inkscape:groupmode="layer"
      id="layer4"
-     inkscape:label="Stars v3">
+     inkscape:label="Stars v3"
+     style="display:none">
     <path
        style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:4.81644106;stroke-miterlimit:4;stroke-dasharray:none"
        d="m 39.859072,22.691629 a 6.000387,8.6204584 0 0 1 -5.783586,8.229399 6.000387,8.6204584 0 0 1 5.789168,8.251972 6.000387,8.6204584 0 0 1 5.79661,-8.256722 6.000387,8.6204584 0 0 1 -5.802192,-8.224649 z"
@@ -150,5 +151,106 @@
        d="m 43.82506,36.623759 a 4.4191801,6.3488168 0 0 1 -4.25951,6.060808 4.4191801,6.3488168 0 0 1 4.263621,6.077433 4.4191801,6.3488168 0 0 1 4.269101,-6.080931 4.4191801,6.3488168 0 0 1 -4.273212,-6.05731 z"
        id="rect4634-5-9"
        inkscape:connector-curvature="0" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer6"
+     inkscape:label="Stars v4"
+     style="display:none">
+    <path
+       style="fill:#ffffff;stroke-width:0.29974064"
+       d="m 39.940787,22.165266 c -0.152677,4.850285 -3.027506,8.711193 -6.617048,8.865757 3.588216,0.154547 6.462031,4.012251 6.616663,8.859977 0.154716,-4.847503 3.02887,-8.705431 6.617048,-8.859977 -3.589447,-0.15457 -6.463862,-4.015626 -6.616663,-8.865757 z"
+       id="rect3701"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#ffffff;stroke-width:0.22663735"
+       d="m 32.284459,32.226955 c -0.115441,3.667357 -2.289132,6.586633 -5.003226,6.703501 2.713091,0.116854 4.886016,3.033709 5.002935,6.69913 0.116983,-3.665252 2.290163,-6.582277 5.003226,-6.69913 -2.714022,-0.116872 -4.8874,-3.036261 -5.002935,-6.703501 z"
+       id="rect3701-0"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#ffffff;stroke-width:0.20266905"
+       d="m 43.874892,36.655226 c -0.103232,3.279511 -2.047042,5.890056 -4.474104,5.994565 2.426165,0.104495 4.36929,2.712875 4.473844,5.990655 0.104611,-3.277629 2.047964,-5.88616 4.474104,-5.990655 -2.426997,-0.104513 -4.370527,-2.715158 -4.473844,-5.994565 z"
+       id="rect3701-0-9"
+       inkscape:connector-curvature="0" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer7"
+     inkscape:label="Stars v5"
+     style="display:inline">
+    <path
+       style="fill:#ffffff;stroke-width:0.24346632"
+       d="m 32.24153,33.092626 c -0.01394,3.244077 -2.224104,5.85203 -4.97334,5.868373 2.749244,0.01632 4.958867,2.624823 4.972823,5.868895 0.01394,-3.244085 2.224085,-5.852573 4.97334,-5.868895 -2.749219,-0.01634 -4.958867,-2.624317 -4.972823,-5.868373 z"
+       id="rect3701-7"
+       inkscape:connector-curvature="0" />
+    <path
+       style="display:inline;fill:#ffffff;stroke-width:0.29974064"
+       d="m 39.941048,22.165266 c -0.152677,4.850285 -3.027506,8.711193 -6.617048,8.865757 3.588216,0.154547 6.462031,4.012251 6.616663,8.859977 0.154716,-4.847503 3.02887,-8.705431 6.617048,-8.859977 -3.589447,-0.15457 -6.463862,-4.015626 -6.616663,-8.865757 z"
+       id="rect3701-3"
+       inkscape:connector-curvature="0" />
+    <path
+       style="display:inline;fill:#ffffff;stroke-width:0.24346632"
+       d="m 43.855436,36.931676 c -0.01394,3.244077 -2.224104,5.85203 -4.97334,5.868373 2.749244,0.01632 4.958867,2.624823 4.972823,5.868895 0.01394,-3.244085 2.224085,-5.852573 4.97334,-5.868895 -2.749219,-0.01634 -4.958867,-2.624317 -4.972823,-5.868373 z"
+       id="rect3701-7-2"
+       inkscape:connector-curvature="0" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer8"
+     inkscape:label="Stars v6"
+     style="display:none">
+    <rect
+       id="rect3701-7-7"
+       width="12.112921"
+       height="17.606995"
+       x="-22.632015"
+       y="16.775017"
+       style="display:inline;fill:#cccccc;stroke-width:0.24346632"
+       inkscape:export-xdpi="113.73"
+       inkscape:export-ydpi="113.73" />
+    <rect
+       style="display:inline;fill:#ececec;stroke-width:0.42249686"
+       id="rect3707-6-3"
+       width="12.112921"
+       height="18.169003"
+       x="-28.682417"
+       y="7.404994"
+       rx="5"
+       ry="5.9000001"
+       inkscape:export-xdpi="113.73"
+       inkscape:export-ydpi="113.73" />
+    <rect
+       style="display:inline;fill:#ececec;stroke-width:0.42249686"
+       id="rect3707-0-6-7"
+       width="12.112921"
+       height="18.169003"
+       x="-16.571924"
+       y="7.404994"
+       rx="5"
+       ry="5.9000001"
+       inkscape:export-xdpi="113.73"
+       inkscape:export-ydpi="113.73" />
+    <rect
+       style="display:inline;fill:#ececec;stroke-width:0.42249686"
+       id="rect3707-0-8-2-6"
+       width="12.112921"
+       height="18.169003"
+       x="-16.571924"
+       y="25.572449"
+       rx="5"
+       ry="5.9000001"
+       inkscape:export-xdpi="113.73"
+       inkscape:export-ydpi="113.73" />
+    <rect
+       style="display:inline;fill:#ececec;stroke-width:0.42249686"
+       id="rect3707-0-8-4-4-0"
+       width="12.112921"
+       height="18.169003"
+       x="-28.682417"
+       y="25.572449"
+       rx="5"
+       ry="5.9000001"
+       inkscape:export-xdpi="113.73"
+       inkscape:export-ydpi="113.73" />
   </g>
 </svg>
